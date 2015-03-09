@@ -1,5 +1,7 @@
 # Dynamic table view cell height
-Demonstrates how dynamicallly resize a table view cell for `UILabels` with an arbitrary number of lines.
+Demonstrates how dynamically resize a table view cell for `UILabels` with an arbitrary number of lines.
+
+The data used in this project is the opening sentence of well-known, English-language novels.
 
 <img src="https://raw.githubusercontent.com/jkereako/dynamic-table-view-cell-height/master/example.png" alt="Dynamic table view cell height" width="320" height="568" />
 
@@ -13,9 +15,7 @@ Most of the magic is defined in the Storyboard via constraints. The principle is
 * Xcode 6 or higher
 * iOS 8.0 or higher
 
-# Sample data
-The first sentence of these well-known, English language novels is used as an example of multi-line text.
-
+# Links
 - [Moby Dick](http://www.amazon.com/Moby-Dick-Bantam-Classics-Herman-Melville/dp/0553213113)
 - [A Tale of Two Cities](http://www.amazon.com/Tale-Cities-Dover-Thrift-Editions/dp/0486406512)
 - [The Adventures of Huckleberry Finn](http://www.amazon.com/Adventures-Huckleberry-Finn-Mark-Twain/dp/0486280616)
