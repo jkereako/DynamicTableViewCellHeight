@@ -1,7 +1,11 @@
 # Dynamic table view cell height
 Demonstrates how to set up a self-sizing table view cell for iOS 8.
 
-# Example
+<img src="https://raw.githubusercontent.com/jkereako/dynamic-table-view-cell-height/master/example.png" alt="Dynamic table view cell height" width="320" height="568" />
+
+# Requirements
+* Xcode 6 or higher
+* iOS 8.0 or higher
 
 # Sample data
 The first sentence of these well-known, English language novels is used as an example of multi-line text.
