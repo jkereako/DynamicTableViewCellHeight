@@ -1,5 +1,5 @@
 # Dynamic table view cell height
-Demonstrates how dynamically resize a table view cell for `UILabels` with an arbitrary number of lines.
+Demonstrates how dynamically resize a table view cell for `UILabels` with an arbitrary number of lines and how to mix customized table view cells with system-defined ones.
 
 The data used in this project is the opening sentence of well-known, English-language novels.
 
