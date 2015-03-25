@@ -7,6 +7,8 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		3680880F1AC2F567009E1F92 /* Data.plist in Resources */ = {isa = PBXBuildFile; fileRef = 3680880E1AC2F567009E1F92 /* Data.plist */; };
+		368088101AC2F567009E1F92 /* Data.plist in Resources */ = {isa = PBXBuildFile; fileRef = 3680880E1AC2F567009E1F92 /* Data.plist */; };
 		36CB941D1AADFBE10091E7BC /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 36CB941C1AADFBE10091E7BC /* main.m */; };
 		36CB94201AADFBE10091E7BC /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 36CB941F1AADFBE10091E7BC /* AppDelegate.m */; };
 		36CB94261AADFBE10091E7BC /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 36CB94241AADFBE10091E7BC /* Main.storyboard */; };
@@ -28,6 +30,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		3680880E1AC2F567009E1F92 /* Data.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = Data.plist; sourceTree = "<group>"; };
 		36CB94171AADFBE10091E7BC /* DynamicTableViewCellHeight.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = DynamicTableViewCellHeight.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		36CB941B1AADFBE10091E7BC /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		36CB941C1AADFBE10091E7BC /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
@@ -104,6 +107,7 @@
 			children = (
 				36CB941B1AADFBE10091E7BC /* Info.plist */,
 				36CB941C1AADFBE10091E7BC /* main.m */,
+				3680880E1AC2F567009E1F92 /* Data.plist */,
 			);
 			name = "Supporting Files";
 			sourceTree = "<group>";
@@ -217,6 +221,7 @@
 			files = (
 				36CB94261AADFBE10091E7BC /* Main.storyboard in Resources */,
 				36CB942B1AADFBE10091E7BC /* LaunchScreen.xib in Resources */,
+				3680880F1AC2F567009E1F92 /* Data.plist in Resources */,
 				36CB94281AADFBE10091E7BC /* Images.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -225,6 +230,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				368088101AC2F567009E1F92 /* Data.plist in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -493,6 +499,7 @@
 				36CB943C1AADFBE10091E7BC /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		36CB943D1AADFBE10091E7BC /* Build configuration list for PBXNativeTarget "DynamicTableViewCellHeightTests" */ = {
 			isa = XCConfigurationList;
@@ -501,6 +508,7 @@
 				36CB943F1AADFBE10091E7BC /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
